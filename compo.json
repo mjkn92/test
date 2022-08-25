@@ -1,0 +1,14 @@
+{
+    "name": "mjkn92/test",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangyf",
+            "email": "675100328@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
